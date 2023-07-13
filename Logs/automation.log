@@ -110,3 +110,53 @@
 07/13/2023 02:21:10 PM: INFO: ########Home page title test is passed########
 07/13/2023 02:21:11 PM: INFO: ########Verify login test########
 07/13/2023 02:21:17 PM: INFO: ########Login test is passed########
+07/13/2023 04:03:01 PM: INFO: ************* Test_003_AddCustomer **********
+07/13/2023 04:04:44 PM: INFO: ************* Test_003_AddCustomer **********
+07/13/2023 04:04:50 PM: INFO: ************* Login succesful **********
+07/13/2023 04:04:50 PM: INFO: ******* Starting Add Customer Test **********
+07/13/2023 04:08:59 PM: INFO: ************* Test_003_AddCustomer **********
+07/13/2023 04:09:05 PM: INFO: ************* Login succesful **********
+07/13/2023 04:09:05 PM: INFO: ******* Starting Add Customer Test **********
+07/13/2023 04:09:52 PM: INFO: ************* Test_003_AddCustomer **********
+07/13/2023 04:09:58 PM: INFO: ************* Login succesful **********
+07/13/2023 04:09:58 PM: INFO: ******* Starting Add Customer Test **********
+07/13/2023 04:10:47 PM: INFO: ************* Test_003_AddCustomer **********
+07/13/2023 04:10:52 PM: INFO: ************* Login succesful **********
+07/13/2023 04:10:52 PM: INFO: ******* Starting Add Customer Test **********
+07/13/2023 04:10:54 PM: INFO: ************* Providing customer info **********
+07/13/2023 04:11:06 PM: INFO: ************* Saving customer info **********
+07/13/2023 04:11:06 PM: INFO: ********* Add customer validation started *****************
+07/13/2023 04:11:07 PM: INFO: ********* Add customer Test Passed *********
+07/13/2023 04:11:07 PM: INFO: ******* Ending Add customer test **********
+07/13/2023 04:45:26 PM: INFO: ************* SearchCustomerByEmail_004 **********
+07/13/2023 04:46:57 PM: INFO: ************* SearchCustomerByEmail_004 **********
+07/13/2023 04:47:01 PM: INFO: ************* Login succesful **********
+07/13/2023 04:47:01 PM: INFO: ******* Starting Search Customer By Email **********
+07/13/2023 04:47:03 PM: INFO: ************* searching customer by emailID **********
+07/13/2023 04:47:09 PM: INFO: ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+07/13/2023 04:49:16 PM: INFO: ************* SearchCustomerByEmail_004 **********
+07/13/2023 04:49:22 PM: INFO: ************* Login succesful **********
+07/13/2023 04:49:22 PM: INFO: ******* Starting Search Customer By Email **********
+07/13/2023 04:49:23 PM: INFO: ************* searching customer by emailID **********
+07/13/2023 04:49:29 PM: INFO: ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+07/13/2023 04:54:10 PM: INFO: ************* SearchCustomerByName_005 **********
+07/13/2023 04:54:16 PM: INFO: ************* Login succesful **********
+07/13/2023 04:54:16 PM: INFO: ******* Starting Search Customer By Email **********
+07/13/2023 04:54:17 PM: INFO: ************* searching customer by nameID **********
+07/13/2023 04:54:23 PM: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+07/13/2023 05:10:25 PM: INFO: ************* Test_003_AddCustomer **********
+07/13/2023 05:10:31 PM: INFO: ************* Login succesful **********
+07/13/2023 05:10:31 PM: INFO: ******* Starting Add Customer Test **********
+07/13/2023 05:10:34 PM: INFO: ************* Providing customer info **********
+07/13/2023 05:10:43 PM: INFO: ########Verify login test########
+07/13/2023 05:10:48 PM: INFO: ########Login test is passed########
+07/13/2023 05:12:27 PM: INFO: ************* Test_003_AddCustomer **********
+07/13/2023 05:12:31 PM: INFO: ************* Login succesful **********
+07/13/2023 05:12:31 PM: INFO: ******* Starting Add Customer Test **********
+07/13/2023 05:12:34 PM: INFO: ************* Providing customer info **********
+07/13/2023 05:12:46 PM: INFO: ************* Saving customer info **********
+07/13/2023 05:12:46 PM: INFO: ********* Add customer validation started *****************
+07/13/2023 05:12:47 PM: INFO: ********* Add customer Test Passed *********
+07/13/2023 05:12:47 PM: INFO: ******* Ending Add customer test **********
+07/13/2023 05:12:48 PM: INFO: ########Verify login test########
+07/13/2023 05:12:54 PM: INFO: ########Login test is passed########

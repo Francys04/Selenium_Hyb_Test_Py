@@ -18,6 +18,8 @@ class Test_001_Login:
     # for log meesages
     logger=LogGen.loggen()
 
+    # grouping testcases with decorators
+    @pytest.mark.regression
     # test page home
     def test_homePageTitle(self, setup):
         # for log messages
@@ -40,6 +42,8 @@ class Test_001_Login:
             self.driver.close()
             assert False
 
+    @pytest.mark.sanity
+    @pytest.mark.regression
 #     test login
     def test_login(self, setup):
         self.logger.info("########Verify login test########")

@@ -22,8 +22,8 @@ class Test_002_DDT_Login:
     logger=LogGen.loggen()
 
     # test page home
-
-
+    #decorators
+    @pytest.mark.regression
 #     test login
     def test_login_ddt(self, setup):
         self.logger.info("########Test_002_DDT_Login#######")

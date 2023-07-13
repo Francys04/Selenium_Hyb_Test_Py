@@ -1,0 +1,112 @@
+07/13/2023 11:38:58 AM: INFO: ########Test_001_Login########
+07/13/2023 11:38:58 AM: INFO: ########Verify Home Page Title########
+07/13/2023 11:39:01 AM: INFO: ########Home page title test is passed########
+07/13/2023 11:39:03 AM: INFO: ########Verify login test########
+07/13/2023 11:39:19 AM: INFO: ########Login test is passed########
+07/13/2023 11:53:24 AM: INFO: ########Test_001_Login########
+07/13/2023 11:53:24 AM: INFO: ########Verify Home Page Title########
+07/13/2023 11:53:27 AM: INFO: ########Home page title test is passed########
+07/13/2023 11:53:28 AM: INFO: ########Verify login test########
+07/13/2023 11:53:34 AM: INFO: ########Login test is passed########
+07/13/2023 12:02:27 PM: INFO: ########Verify login test########
+07/13/2023 12:02:27 PM: INFO: ########Test_001_Login########
+07/13/2023 12:02:27 PM: INFO: ########Verify Home Page Title########
+07/13/2023 12:02:34 PM: INFO: ########Home page title test is passed########
+07/13/2023 12:02:38 PM: INFO: ########Login test is passed########
+07/13/2023 12:35:33 PM: INFO: ########Test_001_Login########
+07/13/2023 12:35:33 PM: INFO: ########Verify Home Page Title########
+07/13/2023 12:35:33 PM: INFO: ########Verify login test########
+07/13/2023 12:35:35 PM: INFO: ########Home page title test is passed########
+07/13/2023 12:45:30 PM: INFO: ########Verify login test########
+07/13/2023 12:45:30 PM: INFO: ########Verify Home Page Title########
+07/13/2023 12:45:33 PM: INFO: ########Home page title test is passed########
+07/13/2023 12:48:38 PM: INFO: ########Test_001_Login########
+07/13/2023 12:48:38 PM: INFO: ########Verify Home Page Title########
+07/13/2023 12:48:38 PM: INFO: ########Verify login test########
+07/13/2023 12:48:41 PM: INFO: ########Home page title test is passed########
+07/13/2023 12:56:22 PM: INFO: ########Test_001_Login########
+07/13/2023 12:56:22 PM: INFO: ########Verify Home Page Title########
+07/13/2023 12:56:22 PM: INFO: ########Verify login test########
+07/13/2023 12:56:25 PM: INFO: ########Home page title test is passed########
+07/13/2023 12:56:47 PM: INFO: ########Test_001_Login########
+07/13/2023 12:56:47 PM: INFO: ########Verify Home Page Title########
+07/13/2023 12:56:47 PM: INFO: ########Verify login test########
+07/13/2023 12:56:50 PM: INFO: ########Home page title test is passed########
+07/13/2023 12:57:21 PM: INFO: ########Test_001_Login########
+07/13/2023 12:57:21 PM: INFO: ########Verify Home Page Title########
+07/13/2023 12:57:21 PM: INFO: ########Verify login test########
+07/13/2023 12:57:23 PM: INFO: ########Home page title test is passed########
+07/13/2023 01:00:42 PM: INFO: ########Verify login test########
+07/13/2023 01:00:42 PM: INFO: ########Test_001_Login########
+07/13/2023 01:00:42 PM: INFO: ########Verify Home Page Title########
+07/13/2023 01:00:46 PM: INFO: ########Home page title test is passed########
+07/13/2023 01:02:39 PM: INFO: ########Verify login test########
+07/13/2023 01:02:39 PM: INFO: ########Verify Home Page Title########
+07/13/2023 01:02:42 PM: INFO: ########Home page title test is passed########
+07/13/2023 01:07:11 PM: INFO: ########Test_001_Login########
+07/13/2023 01:07:11 PM: INFO: ########Verify Home Page Title########
+07/13/2023 01:07:11 PM: INFO: ########Verify login test########
+07/13/2023 01:07:14 PM: INFO: ########Home page title test is passed########
+07/13/2023 01:07:17 PM: INFO: ########Login test is passed########
+07/13/2023 01:12:26 PM: INFO: ########Verify login test########
+07/13/2023 01:12:26 PM: INFO: ########Test_001_Login########
+07/13/2023 01:12:26 PM: INFO: ########Verify Home Page Title########
+07/13/2023 01:12:29 PM: INFO: ########Home page title test is passed########
+07/13/2023 01:12:32 PM: INFO: ########Login test is passed########
+07/13/2023 01:15:50 PM: INFO: ########Test_001_Login########
+07/13/2023 01:15:50 PM: INFO: ########Verify Home Page Title########
+07/13/2023 01:15:50 PM: INFO: ########Verify login test########
+07/13/2023 01:15:53 PM: INFO: ########Home page title test is passed########
+07/13/2023 01:15:58 PM: INFO: ########Login test is passed########
+07/13/2023 01:54:55 PM: INFO: ########Test_002_DDT_Login#######
+07/13/2023 01:54:55 PM: INFO: ########Verify login test########
+07/13/2023 01:58:50 PM: INFO: ########Test_002_DDT_Login#######
+07/13/2023 01:58:50 PM: INFO: ########Verify login test########
+07/13/2023 01:59:00 PM: INFO: ***Passed***
+07/13/2023 01:59:07 PM: INFO: ***Passed***
+07/13/2023 02:02:20 PM: INFO: ########Test_002_DDT_Login#######
+07/13/2023 02:02:20 PM: INFO: ########Verify login test########
+07/13/2023 02:02:32 PM: INFO: ***Passed***
+07/13/2023 02:02:39 PM: INFO: ***Passed***
+07/13/2023 02:03:57 PM: INFO: ******* Starting Test_002_DDT_Login Test **********
+07/13/2023 02:03:57 PM: INFO: ******* Starting Login DDT Test **********
+07/13/2023 02:04:45 PM: INFO: ******* Starting Test_002_DDT_Login Test **********
+07/13/2023 02:04:45 PM: INFO: ******* Starting Login DDT Test **********
+07/13/2023 02:05:18 PM: INFO: ******* Starting Test_002_DDT_Login Test **********
+07/13/2023 02:05:18 PM: INFO: ******* Starting Login DDT Test **********
+07/13/2023 02:05:47 PM: INFO: ########Test_002_DDT_Login#######
+07/13/2023 02:05:47 PM: INFO: ########Verify login test########
+07/13/2023 02:06:00 PM: INFO: ***Passed***
+07/13/2023 02:06:07 PM: INFO: ***Passed***
+07/13/2023 02:08:08 PM: INFO: ########Test_002_DDT_Login#######
+07/13/2023 02:08:08 PM: INFO: ########Verify login test########
+07/13/2023 02:08:20 PM: INFO: ***Passed***
+07/13/2023 02:08:27 PM: INFO: ***Passed***
+07/13/2023 02:08:33 PM: INFO: ***Passed***
+07/13/2023 02:08:39 PM: INFO: ***Passed***
+07/13/2023 02:08:39 PM: INFO: ******* DDT Login test passed **********
+07/13/2023 02:08:39 PM: INFO: ******* End of Login DDT Test **********
+07/13/2023 02:08:39 PM: INFO: **************** Completed  TC_LoginDDT_002 ************* 
+07/13/2023 02:14:59 PM: INFO: ########Test_002_DDT_Login#######
+07/13/2023 02:14:59 PM: INFO: ########Verify login test########
+07/13/2023 02:15:10 PM: INFO: ***Passed***
+07/13/2023 02:15:18 PM: INFO: ***Passed***
+07/13/2023 02:15:24 PM: INFO: ***Passed***
+07/13/2023 02:15:30 PM: INFO: ***Passed***
+07/13/2023 02:15:30 PM: INFO: ******* DDT Login test passed **********
+07/13/2023 02:15:30 PM: INFO: ******* End of Login DDT Test **********
+07/13/2023 02:15:30 PM: INFO: **************** Completed  TC_LoginDDT_002 ************* 
+07/13/2023 02:17:37 PM: INFO: ########Test_002_DDT_Login#######
+07/13/2023 02:17:37 PM: INFO: ########Verify login test########
+07/13/2023 02:17:48 PM: INFO: ***Passed***
+07/13/2023 02:17:55 PM: INFO: ***Passed***
+07/13/2023 02:18:01 PM: INFO: ***Passed***
+07/13/2023 02:18:07 PM: INFO: ***Passed***
+07/13/2023 02:18:07 PM: INFO: ******* DDT Login test passed **********
+07/13/2023 02:18:07 PM: INFO: ******* End of Login DDT Test **********
+07/13/2023 02:18:07 PM: INFO: **************** Completed  TC_LoginDDT_002 ************* 
+07/13/2023 02:21:07 PM: INFO: ########Test_001_Login########
+07/13/2023 02:21:07 PM: INFO: ########Verify Home Page Title########
+07/13/2023 02:21:10 PM: INFO: ########Home page title test is passed########
+07/13/2023 02:21:11 PM: INFO: ########Verify login test########
+07/13/2023 02:21:17 PM: INFO: ########Login test is passed########

@@ -1,4 +1,4 @@
-# create a class, for verify existing users
+"""# create a class, for verify existing users"""
 class SearchCustomer():
     # Add customer Page
     txtEmail_id = "SearchEmail"

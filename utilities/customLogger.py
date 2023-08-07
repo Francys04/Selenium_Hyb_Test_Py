@@ -1,7 +1,7 @@
-# for messages =>pytest captures log messages at the WARNING level or higher.
+"""# for messages =>pytest captures log messages at the WARNING level or higher.
 # These log messages can be redirected to various destinations, including the console or log files.
 # test execution, including debug messages, error traces, and other log records.
-
+"""
 import logging
 # application log can include your own messages integrated with messages from third-party modules
 

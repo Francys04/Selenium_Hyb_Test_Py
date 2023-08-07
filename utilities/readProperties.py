@@ -1,3 +1,4 @@
+"""module for working with INI files."""
 import configparser
 
 # create a obj for call .ini file

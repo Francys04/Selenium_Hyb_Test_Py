@@ -1,10 +1,23 @@
+"""For writing and running tests in Python."""
 import pytest
+"""Provides various time-related functions."""
 import time
+"""Login from the LoginPage module (file) in the pageObjects package. """
 from pageObjects.LoginPage import Login
+"""Similar to the previous import, this line imports a class 
+named AddCustomer from the AddCustommerPage module in the pageObjects package."""
 from pageObjects.AddCustommerPage import AddCustomer
+"""This imports a class named ReadConfig from the readProperties module in the utilities package. 
+This is utility class for reading configuration properties."""
 from utilities.readProperties import ReadConfig
+"""This imports a class named LogGen from the customLogger module in the utilities package. 
+This is a custom logging utility for your test framework."""
 from utilities.customLogger import LogGen
+"""This imports the built-in string module, which provides various functions 
+and constants related to strings."""
 import string
+"""This imports the built-in random module, which is used for generating 
+random numbers or making random selections."""
 import random
 
 
@@ -79,3 +92,30 @@ class Test_003_AddCustomer:
 # generate 8 characters and concatinated with @gmail.com
 def random_generator(size=8, chars=string.ascii_lowercase + string.digits):
     return ''.join(random.choice(chars) for x in range(size))
+
+"""Test_003_AddCustomer defines a test scenario using the pytest testing framework. 
+This class appears to be a part of a larger test suite for automating the testing of adding 
+a customer to a web application. Here's a breakdown of what the code is doing:
+
+The class Test_003_AddCustomer is defined, presumably for testing the functionality of adding a customer.
+
+The class defines class-level variables baseURL, username, and password, which are read from configuration using ReadConfig.
+
+The class also sets up logging using the LogGen.loggen() method.
+
+The @pytest.mark.sanity decorator is applied to the test method test_addCustomer, 
+indicating that this test is part of the "sanity" category.
+
+The test_addCustomer method is defined, which contains the actual test logic.
+
+The test method performs the following steps:
+
+Initializes the web driver by using the setup fixture.
+Navigates to the specified base URL.
+Logs into the application using the provided username and password.
+Navigates to the customer management section and starts adding a new customer.
+Provides various customer details, including generating a random email address.
+Validates the success message after adding the customer and takes appropriate actions based on the validation result.
+Closes the browser.
+The random_generator function is defined to generate random data (8 characters, lowercase letters, and digits) 
+for creating a random email address."""

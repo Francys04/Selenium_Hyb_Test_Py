@@ -1,4 +1,6 @@
 # page object class
+"""The webdriver class is the core component of Selenium that provides 
+methods and properties to automate web browser interactions."""
 from selenium import webdriver
 
 class Login:
